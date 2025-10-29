@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/SHUNTITALY/Shunt-Italia-Precision-DC-Current-Shunts/blob/main/banner-shuntitalia.png?raw=true" alt="SHUNT ITALIA Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="[https://www.shuntitaly.it/assets/img/logo-shunt.png](https://www.shuntitaly.it/images/logo.webp)" alt="SHUNT ITALIA Logo" width="280"/>
 </p>
 
