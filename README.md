@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.shuntitaly.it/assets/img/logo-shunt.png" alt="SHUNT ITALIA Logo" width="280"/>
+  <img src="[https://www.shuntitaly.it/assets/img/logo-shunt.png](https://www.shuntitaly.it/images/logo.webp)" alt="SHUNT ITALIA Logo" width="280"/>
 </p>
 
 <h3 align="center">⚙️ SHUNT ITALIA S.r.l.</h3>
