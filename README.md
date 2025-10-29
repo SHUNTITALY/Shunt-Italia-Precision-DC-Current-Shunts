@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://www.shuntitaly.it/assets/img/logo-shunt.png](https://www.shuntitaly.it/images/logo.webp)" alt="SHUNT ITALIA Logo" width="280"/>
+  [<img src="[https://www.shuntitaly.it/assets/img/logo-shunt.png](https://www.shuntitaly.it/images/logo.webp)" alt="SHUNT ITALIA Logo" width="280"/>](https://github.com/SHUNTITALY/Shunt-Italia-Precision-DC-Current-Shunts/blob/main/logo.webp)
 </p>
 
 <h3 align="center">⚙️ SHUNT ITALIA S.r.l.</h3>
