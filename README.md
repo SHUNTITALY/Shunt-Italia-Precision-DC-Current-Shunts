@@ -5,7 +5,7 @@
 
 ## 🇮🇹 DESCRIZIONE (Italiano)
 
-**SHUNT ITALIA S.r.l.** progetta e produce **derivatori di corrente continua ad alta precisione**, da 1 A fino a oltre 40 kA.  
+**SHUNT ITALIA S.r.l.** progetta e produce **derivatori di corrente continua ad alta precisione**, da 1 A fino a oltre 100 kA.  
 Le nostre soluzioni sono realizzate in **rame, ottone e manganina**, conformi agli standard internazionali  
 **DIN 43703 / DIN 46277 / A-A-55524**, e garantiscono la massima stabilità, affidabilità e qualità *Made in Italy*.  
 
@@ -34,7 +34,7 @@ Le nostre soluzioni sono realizzate in **rame, ottone e manganina**, conformi ag
 
 ## 🇬🇧 DESCRIPTION (English)
 
-**SHUNT ITALIA S.r.l.** designs and manufactures **high-precision DC current shunts**, ranging from 1 A up to over 40 kA.  
+**SHUNT ITALIA S.r.l.** designs and manufactures **high-precision DC current shunts**, ranging from 1 A up to over 100 kA.  
 Each unit is built using **copper, brass, and manganin** materials, fully compliant with international standards  
 **DIN 43703 / DIN 46277 / A-A-55524**, ensuring long-term stability and *Made in Italy* precision.  
 
