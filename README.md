@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="https://www.shuntitaly.it/assets/img/logo-shunt.png" alt="SHUNT ITALIA Logo" width="280"/>
+</p>
+
+<h3 align="center">⚙️ SHUNT ITALIA S.r.l.</h3>
+<p align="center">
+  <strong>Design & Manufacture of Precision DC Current Shunts — Made in Italy</strong><br>
+  <em>Engineering | CAD Design | Calibration | Industrial Automation</em>
+</p>
+
+<p align="center">
+  <a href="https://www.shuntitaly.it"><img src="https://img.shields.io/badge/🌐_Website-www.shuntitaly.it-blue?style=flat-square"></a>
+  <img src="https://img.shields.io/badge/Made_in-Italy-0b426e?style=flat-square&labelColor=f2b548">
+  <img src="https://img.shields.io/badge/Precision-0.2%25–0.5%25-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Standard-DIN_43703_|_DIN_46277-lightgrey?style=flat-square">
+  <img src="https://img.shields.io/badge/Max_Current-100_kA-orange?style=flat-square">
+</p>
+
 # ⚙️ SHUNT ITALIA S.r.l.  
 ### Precision DC Current Shunts — Made in Italy  
 
