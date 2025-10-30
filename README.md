@@ -37,7 +37,7 @@ Le nostre soluzioni sono realizzate in **rame, ottone e manganina**, conformi ag
 - **Classe di precisione:** 0.2 – 0.5 %  
 - **Elemento resistivo:** Manganina  
 - **Terminali:** Rame / Ottone  
-- **Montaggio:** Guida DIN 46277 o versione a pannello  
+- **Montaggio:** Guida DIN 46277 46277, 43703, AA 55524 o versione a pannello  
 - **Temperatura di esercizio:** −40 °C / +80 °C  
 
 ### 🔹 Applicazioni
@@ -66,7 +66,7 @@ Each unit is built using **copper, brass, and manganin** materials, fully compli
 - **Accuracy class:** 0.2 – 0.5 %  
 - **Resistive element:** Manganin  
 - **Terminals:** Copper / Brass  
-- **Mounting:** DIN Rail 46277 or panel type  
+- **Mounting:** DIN Rail 46277, 43703, AA 55524 or panel type  
 - **Operating temperature:** −40 °C / +80 °C  
 
 ### 🔹 Applications
